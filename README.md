@@ -1,4 +1,4 @@
-# 👨‍💻 Angel Guerrero  
+# Angel Guerrero  
 ### Biomedical Systems Engineer | Mathematician | MSc in Computer Science & Engineering (UNAM)  
 ### AI (ML, DL) · Computer Vision · Surgical Navigation · Computer-Assisted Surgery · Medical Imaging · Volume Rendering  
 
