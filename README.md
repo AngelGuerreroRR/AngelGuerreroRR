@@ -14,22 +14,21 @@ I am passionate about building intelligent systems for medical applications, com
 **Español:**  
 Soy Ingeniero en Sistemas Biomédicos y Matemático, actualmente estudiante de Maestría en Ciencias e Ingeniería de la Computación en la UNAM, con especialidad en *Señales, Imágenes y Entornos Virtuales (SIAV)*.  
 Mi trabajo une la inteligencia artificial, el procesamiento de imágenes médicas y la navegación quirúrgica, desarrollando sistemas que integran datos multimodales (CT, MRI, DICOM) con seguimiento óptico y visualización 3D en Unity.  
-
-Me apasiona crear sistemas inteligentes aplicados a la medicina, combinando Python, C# y Unity para generar soluciones robustas, interactivas y visualmente precisas.
-
 ---
 
-## 🎓 Academic Background
+## 🎓 Education
 
-- **M.Sc. in Computer Science and Engineering (UNAM)**  
+- **M.Sc. in Computer Science and Engineering**  
   *Specialization: Signals, Images & Virtual Environments (SIAV)*  
+  Institute for Research in Applied Mathematics and Systems  [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS) de la Universidad Nacional Autónoma de México (UNAM)]
   Focus: Surgical Navigation, Volume Rendering, and Medical Image Fusion using AI.
 
-- **B.Eng. in Biomedical Systems Engineering (Hospital Ángeles Clínica Londres / UNAM)**  
+- **B.Eng. in Biomedical Systems Engineering**
+  School of Engineering
   Focus: Biomedical instrumentation, image-guided surgery, patient simulators, and medical device design.
 
 - **B.Sc. in Mathematics**  
-  Focus: Applied mathematics, data analysis, and computational modeling.
+  Focus: Applied mathematics, mathematics for teching, education.
 
 ---
 
@@ -46,11 +45,8 @@ Me apasiona crear sistemas inteligentes aplicados a la medicina, combinando Pyth
   Medical equipment maintenance, calibration, and assistance in operating room procedures, patient simulators, and imaging devices.
 
 - **Research & Development – Surgical Computer-Assisted Systems**  
-  Developer of the **“Navigator” project**, a Unity-based cranial navigation platform integrating:
-  - Volume rendering of DICOM data (CT/MRI)
-  - Optical tracking (OptiTrack Motive)
-  - Fiducial registration (ICP/SVD)
-  - Real-time visualization and anatomical alignment
+  Hospital General de México Dr. Eduardo Liceaga
+  Developer of a Volume rendering project of DICOM data, a Unity-based method.
 
 ---
 
@@ -60,7 +56,7 @@ Me apasiona crear sistemas inteligentes aplicados a la medicina, combinando Pyth
 - Computer Vision and Medical Image Processing  
 - Surgical Navigation and Computer-Assisted Surgery  
 - Volume Rendering and 3D Visualization  
-- Image Fusion and Registration (CT–MRI, Optical Tracking)  
+- Image Fusion and Registration
 - Biomedical Instrumentation and Virtual Environments  
 
 ---
@@ -78,9 +74,14 @@ Me apasiona crear sistemas inteligentes aplicados a la medicina, combinando Pyth
 **Frameworks & Tools:**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=flat&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)
+![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram&logoColor=white)
 ![3D Slicer](https://img.shields.io/badge/3D%20Slicer-008080?style=flat&logo=autodesk&logoColor=white)
+![Rhinoceros 3D](https://img.shields.io/badge/Rhinoceros%203D-6E6E6E?style=flat&logo=rhinoceros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![ITK](https://img.shields.io/badge/ITK-0A66C2?style=flat&logo=scipy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoC)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
