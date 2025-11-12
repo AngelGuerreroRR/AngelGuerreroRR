@@ -5,7 +5,6 @@
 
 ## 🧠 About Me
 
-**English:**  
 I am a Biomedical Systems Engineer and Mathematician, currently pursuing a Master's degree in Computer Science and Engineering at UNAM, specializing in *Signals, Images & Virtual Environments (SIAV)*.  
 My work integrates artificial intelligence, medical imaging, and surgical navigation — developing systems that fuse multimodal data (CT, MRI, DICOM) with real-time tracking and 3D visualization in Unity.  
 
