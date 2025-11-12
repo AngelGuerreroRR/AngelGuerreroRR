@@ -11,9 +11,6 @@ My work integrates artificial intelligence, medical imaging, and surgical naviga
 
 I am passionate about building intelligent systems for medical applications, combining Python, C#, and Unity to create robust and visually interactive solutions for research, education, and surgical support.
 
-**Español:**  
-Soy Ingeniero en Sistemas Biomédicos y Matemático, actualmente estudiante de Maestría en Ciencias e Ingeniería de la Computación en la UNAM, con especialidad en *Señales, Imágenes y Entornos Virtuales (SIAV)*.  
-Mi trabajo une la inteligencia artificial, el procesamiento de imágenes médicas y la navegación quirúrgica, desarrollando sistemas que integran datos multimodales (CT, MRI, DICOM) con seguimiento óptico y visualización 3D en Unity.  
 ---
 
 ## 🎓 Education
